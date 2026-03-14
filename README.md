@@ -49,6 +49,16 @@ These projects were created for frontend practice to improve layout design, styl
 
 You can open the `index.html` file in your browser to view the projects locally.
 
+###  Amazon Clone
+
+![Amazon Clone](Amazon.png)
+
+
+###  Netflix Clone
+
+![Netflix Clone](Netflix.png)
+
+
 ---
 
 ## 👨‍💻 Author
